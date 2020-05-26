@@ -1,0 +1,15 @@
+h1 {
+    display: flex;
+    color: red;
+    transition: all 2s ease-out 0s;
+    object-fit: cover;
+    &:hover {
+        color: blue;
+        transform: translateX(20px);
+    }
+}
+h2 {
+    background-color: purple;
+    color: #000;
+    border: 5px solid #000;
+}

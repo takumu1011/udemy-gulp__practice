@@ -1,0 +1,16 @@
+h1 {
+  display: flex;
+  color: red;
+  transition: all 2s ease-out 0s;
+  -o-object-fit: cover;
+     object-fit: cover; }
+  h1:hover {
+    color: blue;
+    transform: translateX(20px); }
+
+h2 {
+  background-color: purple;
+  color: #000;
+  border: 5px solid #000; }
+
+/*# sourceMappingURL=main.css.map */
